@@ -1,0 +1,4 @@
+{
+    "restructuredtext.confPath": "${workspaceFolder}/docs/source",
+    "python.pythonPath": "/home/minhhoangdang/miniconda3/envs/sci/bin/python"
+}
